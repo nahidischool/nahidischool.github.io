@@ -1,9 +1,13 @@
 ### Md Mustafizur Rahman 
 
-Graduate Student <br>
+Graduate Student 
+
 School of Information <br>
+
 University of Texas at Austin<br>
+
 Phone: +1-434-227-3832<br>
+
 Email: nahid@utexas.edu<br>
 
 
