@@ -70,7 +70,7 @@ I am a first year PhD student at the School of Information, University of Texas 
 ## Awards in Different Competitions
 - 2011: Secured 11th position among 319 Computer Science Graduates in Information Technology Engineering Examination (ITEE) organized by Japan International Corporation Agency (JICA) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+``For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
