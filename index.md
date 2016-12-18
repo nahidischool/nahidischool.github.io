@@ -2,13 +2,17 @@
 
 Graduate Student 
 
-School of Information <br>
 
-University of Texas at Austin<br>
+School of Information 
 
-Phone: +1-434-227-3832<br>
 
-Email: nahid@utexas.edu<br>
+University of Texas at Austin
+
+
+Phone: +1-434-227-3832
+
+
+Email: nahid@utexas.edu
 
 
 I am a second year graduate student at the Computer Science Department, in the University of Virginia. I am interested in machine learning research and its applications to User Behavior Modelling, Natural Language Processing, Text Data Analysis and Probabilistic Graphical Model. My advisor is Prof. Hongning Wang.
