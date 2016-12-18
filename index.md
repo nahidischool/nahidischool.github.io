@@ -70,12 +70,3 @@ I am a first year PhD student at the School of Information, University of Texas 
 ## Awards in Different Competitions
 - 2011: Secured 11th position among 319 Computer Science Graduates in Information Technology Engineering Examination (ITEE) organized by Japan International Corporation Agency (JICA) 
 
-`For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdmustafizurrahman/mdmustafizurrahman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
