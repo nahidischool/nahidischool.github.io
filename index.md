@@ -50,6 +50,20 @@ I am a first year PhD student at the School of Information, University of Texas 
 
 12. **Md. Mustafizur Rahman**, S. M. Ferdous, and Syed Ishtiaque Ahmed, **Increasing intelligibility in the speech of the autistic children by an interactive computer game**. In Proceedings of _the IEEE Symposium on Multimedia, IEEE Computer Society Press_, Taiwan,China, pages 383-387, 2010. [[PDF]]()
 
+
+# Award & Honour
+## Academic Awards and Scholarships
+- 2014-2016: Full tuition waiver and graduate assistantship from University of Virginia
+- 2006-2011: Awarded with Scholarship from Institute of International Education (IIE), New York, USA sponsored by AIG Foundation
+- 2006-2011: "Dean's List Award" by Bangladesh University of Engineering and Technology (BUET) for maintaining a minimum CGPA of 3.75
+- 2011 : Award of Excellence from Nazrul Islam Hall, BUET
+- 2006-2011: "University Scholarships" by Bangladesh University of Engineering and Technology (BUET) for academic excellences
+- 2005: "Board Scholarship (Talent Pool)" by the Ministry of Education, Bangladesh for the results in Higher Secondary Certificate examination
+- 2005: "Perfect Attendance Certificate" by Notre Dame College for attending 100% classes in two academic years of higher secondary studies
+- 2003: "Board Scholarship" by the Ministry of Education, Bangladesh for the results in Secondary School Certificate examination
+- 2000: Junior Scholarship in Talent Pool, awarded by the Ministry of Education, Bangladesh
+- 1997: Primary Scholarship in Talent Pool, awarded by the Ministry of Education, Bangladesh
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
