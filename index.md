@@ -1,9 +1,4 @@
-[navbar]Brand reference
-***
-* Hierarchical
- * list of
- * menu items[/navbar]
- 
+
 # Md Mustafizur Rahman 
 
 Graduate Student 
