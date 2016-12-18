@@ -1,5 +1,5 @@
 
-# Md Mustafizur Rahman 
+# <a name="titleName"></a>Md Mustafizur Rahman 
 
 Graduate Student 
 
@@ -14,7 +14,7 @@ Email: nahid@utexas.edu
 I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in deep learning research and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof. Matthew Lease.
 
 
-# Publications
+# <a name="publication"></a>Publications
 [[Google Scholar]](http://scholar.google.com/citations?hl=en&user=-Lae4twAAAAJ)
 
 ## Book Chapter
@@ -53,7 +53,7 @@ I am a first year PhD student at the School of Information, University of Texas 
 12. **Md. Mustafizur Rahman**, S. M. Ferdous, and Syed Ishtiaque Ahmed, **Increasing intelligibility in the speech of the autistic children by an interactive computer game**. In Proceedings of _the IEEE Symposium on Multimedia, IEEE Computer Society Press_, Taiwan,China, pages 383-387, 2010. [[PDF]]()
 
 
-## Academic Awards
+## <a name="award"></a>Academic Awards
 
 - 2014 to 2016: Full tuition waiver and graduate assistantship from University of Virginia
 - 2006 to 2011: Awarded with Scholarship from Institute of International Education (IIE), New York, USA sponsored by AIG Foundation
