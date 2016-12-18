@@ -12,10 +12,10 @@ I am a first year PhD student at the School of Information, University of Texas 
 ### Publications
 
 # Book Chapter
-1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [pdf] (http://www.cs.virginia.edu/~mr4xb/paper/book_springer.pdf)
+1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [pdf](http://www.cs.virginia.edu/~mr4xb/paper/book_springer.pdf)
 
 # Journal
-1. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, Layered Ensemble Architecture for Time Series Forecasting. IEEE transaction on Systems, Man & Cybernetics, February 24, 2014. (PDF)
+1. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, Layered Ensemble Architecture for Time Series Forecasting. IEEE transaction on Systems, Man & Cybernetics, February 24, 2014. [pdf](http://dx.doi.org/10.1109/TCYB.2015.2401038)
 2. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [pdf](http://www.cs.virginia.edu/~mr4xb/paper/ITSE_Speech_development.pdf)
 
 **Bold** and _Italic_ and `Code` text
