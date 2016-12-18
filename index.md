@@ -2,7 +2,6 @@
 
 Graduate Student 
 
-
 School of Information 
 
 
