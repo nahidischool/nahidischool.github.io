@@ -11,7 +11,7 @@ Phone: +1-434-227-3832
 
 Email: nahid@utexas.edu
 
-I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in deep learning research and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof.<a href=https://www.ischool.utexas.edu/~ml/ target="_blank">Matthew Lease</a>.
+I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in deep learning research and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof. <a href=https://www.ischool.utexas.edu/~ml/ target="_blank" style="target-new: tab;"> Matthew Lease</a>.
 
 
 # <a name="publication"></a>Publications
