@@ -1,13 +1,9 @@
 ### Md Mustafizur Rahman 
 
 Graduate Student 
-
 School of Information 
-
 University of Texas at Austin
-
 Phone: +1-434-227-3832
-
 Email: nahid@utexas.edu
 
 I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in deep learning research and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof. Matthew Lease.
@@ -16,15 +12,11 @@ I am a first year PhD student at the School of Information, University of Texas 
 ### Publications
 
 # Book Chapter
-1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, Md. Mustafizur Rahman, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences_, Springer, DOI 10.1007/978-94-0:pages: 53-78, 2014. [pdf] (http://www.cs.virginia.edu/~mr4xb/paper/book_springer.pdf)
-## Header 2
-### Header 3
+1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [pdf] (http://www.cs.virginia.edu/~mr4xb/paper/book_springer.pdf)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Journal
+1. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, Layered Ensemble Architecture for Time Series Forecasting. IEEE transaction on Systems, Man & Cybernetics, February 24, 2014. (PDF)
+2. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [pdf](http://www.cs.virginia.edu/~mr4xb/paper/ITSE_Speech_development.pdf)
 
 **Bold** and _Italic_ and `Code` text
 
