@@ -53,10 +53,10 @@ I am a first year PhD student at the School of Information, University of Texas 
 
 # Award & Honour
 ## Academic Awards and Scholarships
-- 2014-2016: Full tuition waiver and graduate assistantship from University of Virginia
-- 2006-2011: Awarded with Scholarship from Institute of International Education (IIE), New York, USA sponsored by AIG Foundation
-- 2006-2011: "Dean's List Award" by Bangladesh University of Engineering and Technology (BUET) for maintaining a minimum CGPA of 3.75
-- 2011 : Award of Excellence from Nazrul Islam Hall, BUET
+- 2014 to 2016: Full tuition waiver and graduate assistantship from University of Virginia
+- 2006 to 2011: Awarded with Scholarship from Institute of International Education (IIE), New York, USA sponsored by AIG Foundation
+- 2006 to 2011: "Dean's List Award" by Bangladesh University of Engineering and Technology (BUET) for maintaining a minimum CGPA of 3.75
+- 2011: Award of Excellence from Nazrul Islam Hall, BUET
 - 2006-2011: "University Scholarships" by Bangladesh University of Engineering and Technology (BUET) for academic excellences
 - 2005: "Board Scholarship (Talent Pool)" by the Ministry of Education, Bangladesh for the results in Higher Secondary Certificate examination
 - 2005: "Perfect Attendance Certificate" by Notre Dame College for attending 100% classes in two academic years of higher secondary studies
