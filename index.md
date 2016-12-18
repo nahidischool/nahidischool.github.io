@@ -64,6 +64,12 @@ I am a first year PhD student at the School of Information, University of Texas 
 - 2000: Junior Scholarship in Talent Pool, awarded by the Ministry of Education, Bangladesh
 - 1997: Primary Scholarship in Talent Pool, awarded by the Ministry of Education, Bangladesh
 
+## Honours and Excellencies
+- 2012: Full Scholarship to attend Workshop on Research Frontier in Computing from School of Computing (SoC), National University of Singapore(NUS) for attending Summer School.
+
+## Awards in Different Competitions
+- 2011: Secured 11th position among 319 Computer Science Graduates in Information Technology Engineering Examination (ITEE) organized by Japan International Corporation Agency (JICA) 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
