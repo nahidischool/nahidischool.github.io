@@ -4,12 +4,9 @@ Graduate Student
 
 School of Information 
 
-
 University of Texas at Austin
 
-
 Phone: +1-434-227-3832
-
 
 Email: nahid@utexas.edu
 
