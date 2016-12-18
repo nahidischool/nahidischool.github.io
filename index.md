@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+### Md Mustafizur Rahman 
 
-You can use the [editor on GitHub](https://github.com/mdmustafizurrahman/mdmustafizurrahman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Graduate Student
+School of Information
+University of Texas at Austin
+Phone: +1-434-227-3832
+Email: nahid@utexas.edu
+
+
+I am a second year graduate student at the Computer Science Department, in the University of Virginia. I am interested in machine learning research and its applications to User Behavior Modelling, Natural Language Processing, Text Data Analysis and Probabilistic Graphical Model. My advisor is Prof. Hongning Wang.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
