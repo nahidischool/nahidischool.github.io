@@ -51,7 +51,7 @@ I am a first year PhD student at the School of Information, University of Texas 
 12. **Md. Mustafizur Rahman**, S. M. Ferdous, and Syed Ishtiaque Ahmed, **Increasing intelligibility in the speech of the autistic children by an interactive computer game**. In Proceedings of _the IEEE Symposium on Multimedia, IEEE Computer Society Press_, Taiwan,China, pages 383-387, 2010. [[PDF]]()
 
 
-# Award & Honour
+# Award and Honour
 ## Academic Awards
 - 2014 to 2016: Full tuition waiver and graduate assistantship from University of Virginia
 - 2006 to 2011: Awarded with Scholarship from Institute of International Education (IIE), New York, USA sponsored by AIG Foundation
