@@ -1,9 +1,13 @@
 # Md Mustafizur Rahman 
 
 Graduate Student 
+
 School of Information 
+
 University of Texas at Austin
+
 Phone: +1-434-227-3832
+
 Email: nahid@utexas.edu
 
 I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in deep learning research and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof. Matthew Lease.
@@ -16,7 +20,9 @@ I am a first year PhD student at the School of Information, University of Texas 
 
 ## Journal
 1. Y. Zhang, **Md. Mustafizur Rahman**, A. Braylan, B. Dang, H.-L. Chang, H. Kim, Q. McNamara, A. Angert, E. Banner, V. Khetan, T. McDonnell, A. Thanh Nguyen, D. Xu, B. C. Wallace, and M. Lease. **Neural Information Retrieval: A Literature Review**. Technical report, University of Texas at Austin, November 2016. ArXiv 1611.06792. [[PDF]](https://arxiv.org/abs/1611.06792)
+
 2. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, **Layered Ensemble Architecture for Time Series Forecasting**. _IEEE transaction on Systems, Man & Cybernetics_, February 24, 2014. [[PDF]](http://dx.doi.org/10.1109/TCYB.2015.2401038)
+
 3. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [[PDF]](http://www.cs.virginia.edu/~mr4xb/paper/ITSE_Speech_development.pdf)
 
 ## Conference
