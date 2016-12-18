@@ -10,21 +10,14 @@ Phone: +1-434-227-3832
 
 Email: nahid@utexas.edu
 
-![md mustafizur rahman](http://www.cs.virginia.edu/~mr4xb/img/mustafiz.jpg)
+I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in deep learning research and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof. Matthew Lease.
 
 
-I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in machine learning research and its applications to User Behavior Modelling, Natural Language Processing, Text Data Analysis and Probabilistic Graphical Model. My advisor is Prof. Matthew Lease.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Publications
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+# Book Chapter
+1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, Md. Mustafizur Rahman, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences_, Springer, DOI 10.1007/978-94-0:pages: 53-78, 2014. (http://www.cs.virginia.edu/~mr4xb/paper/book_springer.pdf)
 ## Header 2
 ### Header 3
 
