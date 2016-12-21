@@ -18,7 +18,7 @@ I am a first year PhD student at the School of Information, University of Texas 
 [[Google Scholar]](http://scholar.google.com/citations?hl=en&user=-Lae4twAAAAJ)
 
 ## Book Chapter
-1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [[PDF]](/paper/book_springer.pdf)
+1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [[PDF]](http://link.springer.com/chapter/10.1007%2F978-94-017-8642-3_3)
 
 ## Journal
 1. Y. Zhang, **Md. Mustafizur Rahman**, A. Braylan, B. Dang, H.-L. Chang, H. Kim, Q. McNamara, A. Angert, E. Banner, V. Khetan, T. McDonnell, A. Thanh Nguyen, D. Xu, B. C. Wallace, and M. Lease. **Neural Information Retrieval: A Literature Review**. Technical report, University of Texas at Austin, November 2016. ArXiv 1611.06792. [[PDF]](https://arxiv.org/abs/1611.06792)
@@ -28,9 +28,9 @@ I am a first year PhD student at the School of Information, University of Texas 
 3. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [[PDF]](http://dx.doi.org/10.1108/17415651111189450)
 
 ## Conference
-1. Malay Bhattacharyya, Yoshihiko Suhara, **Md. Mustafizur Rahman**, and Markus Krause, **Possible Confounds in Word-based Semantic Similarity Test Data**. In proceedings of _the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017)_, Portland, OR, USA, 2017. [PDF](http://dx.doi.org/10.1145/3022198.3026357) (To appear). 
+1. Malay Bhattacharyya, Yoshihiko Suhara, **Md. Mustafizur Rahman**, and Markus Krause, **Possible Confounds in Word-based Semantic Similarity Test Data**. In proceedings of _the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017)_, Portland, OR, USA, 2017 (To appear). [PDF](http://dx.doi.org/10.1145/3022198.3026357) [Blog](https://humancomputation.com/blog/?p=9492). 
 
-2. **Md. Mustafizur Rahman**, and Hongning Wang, **Hidden Topic Sentiment Model**. In Proceedings of _the 25th International World Wide Web Conference (WWW 2016)_, Montreal, Canada, 2016. [[PDF]](/paper/WWW2016.pdf) [[PPT]](/paper/mustafiz-WWW16-v1.pptx)
+2. **Md. Mustafizur Rahman**, and Hongning Wang, **Hidden Topic Sentiment Model**. In Proceedings of _the 25th International World Wide Web Conference (WWW 2016)_, Montreal, Canada, 2016. [[PDF]](https://doi.org/10.1145/2872427.2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx)
 
 3. **Md. Mustafizur Rahman**, S. K. K. Santu, Md. Monirul Islam, and Kazuyuki Murase, **Forecasting Time Series - A Layered Ensemble Architecture**. In Proceedings of _the International Joint Conference on Neural Networks (IJCNN 2014)_, IEEE, Beijing, China, 2014. [[PDF]](/paper/IJCNN_TSF.pdf)
 
