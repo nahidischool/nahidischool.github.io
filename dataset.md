@@ -9,7 +9,7 @@ When you are using above data sets in your research, please consider to cite the
 
 - **Md. Mustafizur Rahman**, and Hongning Wang, **Hidden Topic Sentiment Model**. In Proceedings of _the 25th International World Wide Web Conference (WWW 2016)_, Montreal, Canada, 2016. [[PDF]](https://doi.org/10.1145/2872427.2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx)[[cite]](htsm.bib)
 
-```
+```bibtex
 @inproceedings{Rahman:2016:HTS:2872427.2883072,
  author = {Rahman, Md Mustafizur and Wang, Hongning},
  title = {Hidden Topic Sentiment Model},
