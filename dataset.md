@@ -3,7 +3,7 @@
 
 2. Amazon Data Set ([JSON](data/HTSM/amazon_data.zip), [Readme](/data/HTSM/ReadMe_Amazon.txt))
 
-3. Prior and Seed Words ([[ZIP]](/data/HTSM/prior_and_seedwords.zip))
+3. Prior and Seed Words ([ZIP](/data/HTSM/prior_and_seedwords.zip))
 
 When you are using above data sets in your research, please consider to cite the following paper:
 
