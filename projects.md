@@ -47,7 +47,7 @@
 - Implemented several probabilistic topic models including 2-topic mixture model, probabilistic latent semantic analysis (PLSA), hidden topic markov model (HTMM), logistic regression in HTMM etc using expectation maximization (EM)
 
 ## Personalized Job Matching 
-[[PDF]]((/paper/Personalized_Job_Matching.pdf)) [[PPT]]((/paper/Personalized_Job_Matching.ppt))
+[[PDF]](/paper/Personalized_Job_Matching.pdf) [[PPT]](/paper/Personalized_Job_Matching.ppt)
 
 [Aug, 2014 - Nov, 2014]
 
