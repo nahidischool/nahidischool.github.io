@@ -13,12 +13,19 @@
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
 [[PDF]](/paper/deep-non-factoid-qa.pdf) [[PPT]](/paper/QA_Task.pdf)
 
-[Sep, 2016 - Dec, 2016]
+[Oct, 2016 - Dec, 2016]
 
 - Applied Convolutional Neural Network (CNN) on Non-factoid Question Answering
 - Leveraged word embedding for semantic representation 
 - Answer selection is performed using similarity measure between the semantic vector of questions and answers
 - Developed using Python, Keras and TensorFlow
+
+## Literature Review on Neural Information Retrieval
+[[PDF]](https://arxiv.org/abs/1611.06792) [[PPT]](http://www.slideshare.net/mattlease/deep-learning-for-information-retrieval-models-progress-opportunities)
+
+[Aug, 2016 - Oct, 2016]
+
+- In this project, we surveyed the current landscape of Neural Information Retrieval (IR) research, paying special attention to the use of learned representations of queries and documents (i.e., neural embeddings). We highlighted the successes of neural IR thus far, catalog obstacles to its wider adoption, and suggest potentially promising directions for future research.
 
 
 ## Hidden Topic Sentiment Model for Unstructured Users' Reviews
