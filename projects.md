@@ -1,7 +1,7 @@
 ## Hidden Topic Sentiment Model for Unstructured Users' Reviews
 [[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) 
 
-[January 2015 - October 2015]
+[Jan, 2015 - Oct, 2015]
 
 - Developed a Markov model based topic model which captures transition of users’ sentiment on sentence by sentence
 - Crawled customers’reviews from Amazon.com and NewEgg.com and applied our model
