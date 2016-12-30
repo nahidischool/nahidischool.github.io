@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border-style: none">
 <tr>
 <td>
-<img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman">
+<img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman" style="border-style: none">
 </td>
 <td>
 <p>
