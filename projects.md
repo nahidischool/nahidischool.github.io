@@ -1,5 +1,5 @@
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
-[[PDF]](/paper/deep-non-factoid-qa.pdf)
+[[PDF]](/paper/deep-non-factoid-qa.pdf)[[PPT]](/paper/QA_Task.pdf)
 
 [Sep, 2016 - Dec, 2016]
 
