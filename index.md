@@ -11,7 +11,7 @@ Graduate Student <br>
 
 <a href="http://www.ischool.utexas.edu/">School of Information</a> <br> 
 
-University of Texas at Austin<br>
+<a href="http://www.utexas.edu/">University of Texas at Austin</a><br>
 
 Phone: +1-434-227-3832<br>
 
