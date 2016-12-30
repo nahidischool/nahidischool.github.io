@@ -9,7 +9,7 @@
 <p>
 Graduate Student <br>
 
-[School of Information](http://www.ischool.utexas.edu/)<br> 
+<a href="http://www.ischool.utexas.edu/">School of Information</a> <br> 
 
 University of Texas at Austin<br>
 
