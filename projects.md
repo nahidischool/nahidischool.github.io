@@ -1,14 +1,13 @@
 ## Attention-based Learning to Rank Approach in Document Relevance Judgement   
 [Dec, 2016 - Present]   
 
-
+- Developing an attention-based model to find out the important part of the document
+- Trying to utitlize the rationale 
 
 ## Leveraging Active Learning for Labeling TREC Ad-hoc Data-set
 [Dec, 2016 - Present]
 
 - NIST evaluates relevance judgement only for a set of documents in a collection because the human evaluation is costly. The purpose of this project is to develop an active learning approach which will find out the fine-grained balance between the cost and the gold-dataset collection
-
-
 
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
 [[PDF]](/paper/deep-non-factoid-qa.pdf) [[PPT]](/paper/QA_Task.pdf)
@@ -27,7 +26,6 @@
 
 - In this project, we surveyed the current landscape of Neural Information Retrieval (IR) research, paying special attention to the use of learned representations of queries and documents (i.e., neural embeddings). We highlighted the successes of neural IR thus far, catalog obstacles to its wider adoption, and suggest potentially promising directions for future research.
 - Under review in [Information Retrieval Journal: Special Issue on Neural Information Retrieval](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57257&copyownerid=320)
-
 
 ## Hidden Topic Sentiment Model for Unstructured Users' Reviews
 [[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) 
