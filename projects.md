@@ -1,4 +1,4 @@
-## Attention-based model for leveraging rationale in relevance judgement 
+## Attention-based Learning to Rank Approach in Document Relevance Judgement 
 [Dec, 2016 - Present]
 
 - 
