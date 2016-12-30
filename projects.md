@@ -1,10 +1,11 @@
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
-[[PDF]](/paper/deep-non-factoid-qa.pdf)[[PPT]](/paper/QA_Task.pdf)
+[[PDF]](/paper/deep-non-factoid-qa.pdf) [[PPT]](/paper/QA_Task.pdf)
 
 [Sep, 2016 - Dec, 2016]
 
 - Applied Convolutional Neural Network on Non-factoid Question Answering
 - Answer selection is performed using similarity measure between the semantic vector of questions and answers
+- Developed using Python, Keras and TensorFlow
 
 
 ## Hidden Topic Sentiment Model for Unstructured Users' Reviews
@@ -14,6 +15,12 @@
 
 - Developed a Markov model based topic model which captures transition of users’ sentiment on sentence by sentence
 - Crawled customers’reviews from Amazon.com and NewEgg.com and applied our model
+
+## Sentiment Analysis on IMDB Movie Reviews 
+[Apr, 2015 – May, 2015]
+
+- Developed a multi-class sentiment classification algorithm forlabelling the sentiment label of IMDB movie review
+- Successfully participated in Kaggle Competition - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/leaderboard)
 
 ## Topic Modelling
 [Dec, 2014 - Jan, 2015]
