@@ -1,6 +1,7 @@
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
-[Sep, 2016 - Dec, 2016]
 [[PDF]](/paper/deep-non-factoid-qa.pdf)
+
+[Sep, 2016 - Dec, 2016]
 
 - Applied Convolutional Neural Network on Non-factoid Question Answering
 - Answer selection is performed using similarity measure between the semantic vector of questions and answers
