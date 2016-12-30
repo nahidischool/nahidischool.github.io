@@ -7,13 +7,13 @@
 </td>
 <td>
 <p>
-Graduate Student 
+Graduate Student <br>
 
-School of Information 
+School of Information<br> 
 
-University of Texas at Austin
+University of Texas at Austin<br>
 
-Phone: +1-434-227-3832
+Phone: +1-434-227-3832<br>
 
 Email: nahid@utexas.edu
 </p>
