@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: https://github.com/mdmustafizurrahman/mdmustafizurrahman.github.io/blob/master/projects.md
+Disallow: /mdmustafizurrahman.github.io/projects
