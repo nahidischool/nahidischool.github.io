@@ -26,6 +26,7 @@
 [Aug, 2016 - Oct, 2016]
 
 - In this project, we surveyed the current landscape of Neural Information Retrieval (IR) research, paying special attention to the use of learned representations of queries and documents (i.e., neural embeddings). We highlighted the successes of neural IR thus far, catalog obstacles to its wider adoption, and suggest potentially promising directions for future research.
+- Under review in [Information Retrieval Journal: Special Issue on Neural Information Retrieval](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57257&copyownerid=320)
 
 
 ## Hidden Topic Sentiment Model for Unstructured Users' Reviews
