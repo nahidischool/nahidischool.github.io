@@ -1,4 +1,4 @@
-## TOPIC MODELING FOR UNSTRUCTURED USERS' REVIEWS
+## Hidden Topic Sentiment Model for Unstructured Users' Reviews
 January 2015 - October 2015
 [[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) 
 
