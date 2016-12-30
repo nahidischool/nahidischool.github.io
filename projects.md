@@ -1,3 +1,10 @@
+## TOPIC MODELING FOR UNSTRUCTURED USERS' REVIEWS
+January 2015 - October 2015
+[[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) 
+
+- Developed a Markov model based topic model which captures transition of users’ sentiment on sentence by sentence
+- Crawled customers’reviews from Amazon.com and NewEgg.com and applied our model
+
 ## Topic Modelling
 - Implemented several probabilistic topic models including 2-topic mixture model, probabilistic latent semantic analysis (PLSA), hidden topic markov model (HTMM), logistic regression in HTMM etc using expectation maximization (EM)
 
