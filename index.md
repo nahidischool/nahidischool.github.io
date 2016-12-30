@@ -1,6 +1,6 @@
 # Md Mustafizur Rahman 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="border-style: none">
 <tr>
 <td>
 <img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman">
