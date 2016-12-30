@@ -1,6 +1,12 @@
 
 # Md Mustafizur Rahman 
-
+<table>
+<tr>
+<td>
+><img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman">
+</td>
+<td>
+<p>
 Graduate Student 
 
 School of Information 
@@ -10,7 +16,10 @@ University of Texas at Austin
 Phone: +1-434-227-3832
 
 Email: nahid@utexas.edu
-
+</p>
+</td>
+</tr>
+</table>
 I am a first year PhD student at the School of Information, University of Texas at Austin. I am interested in Deep Learning  and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. My advisor is Prof. [Matthew Lease](https://www.ischool.utexas.edu/~ml/).
 
 
