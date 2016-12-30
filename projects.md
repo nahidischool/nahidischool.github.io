@@ -1,4 +1,4 @@
-## Attention-based Learning to Rank Approach in Document Relevance Judgement   
+## Attention-based Learning to Rank in Document Relevance Judgement   
 [Dec, 2016 - Present]   
 
 - Developing an attention-based model to find out the important part of the document
