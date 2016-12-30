@@ -1,6 +1,8 @@
 ## Leveraging Active Learning for Labeling TREC Ad-hoc Data-set
 [Dec, 2016 - Present]
 
+- NIST evaluates relevance judgement only for a set of documents in a collection because the human evaluation is costly. The purpose of this project is to develope an active learning approach which will find out the fine-grained balance between the cost and the gold-dataset collection. 
+
 
 
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
@@ -9,6 +11,7 @@
 [Sep, 2016 - Dec, 2016]
 
 - Applied Convolutional Neural Network (CNN) on Non-factoid Question Answering
+- Leveraged word embedding for semantic representation 
 - Answer selection is performed using similarity measure between the semantic vector of questions and answers
 - Developed using Python, Keras and TensorFlow
 
