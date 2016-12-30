@@ -7,7 +7,7 @@
 </td>
 <td>
 <p>
-Graduate Student <br>
+Graduate Research Assistant <br>
 
 <a href="http://www.ischool.utexas.edu/">School of Information</a> <br> 
 
