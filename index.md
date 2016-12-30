@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-><img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman">
+<img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman">
 </td>
 <td>
 <p>
