@@ -1,6 +1,6 @@
 # Md Mustafizur Rahman 
 
-<table>
+<table border="0">
 <tr>
 <td>
 <img src="pictures/mustafiz.jpg" height="250" alt="Md Mustafizur Rahman">
@@ -9,7 +9,7 @@
 <p>
 Graduate Student <br>
 
-School of Information<br> 
+[School of Information](http://www.ischool.utexas.edu/)<br> 
 
 University of Texas at Austin<br>
 
