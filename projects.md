@@ -1,9 +1,14 @@
+## Leveraging Active Learning for Labeling TREC Ad-hoc Data-set
+[Dec, 2016 - Present]
+
+
+
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
 [[PDF]](/paper/deep-non-factoid-qa.pdf) [[PPT]](/paper/QA_Task.pdf)
 
 [Sep, 2016 - Dec, 2016]
 
-- Applied Convolutional Neural Network on Non-factoid Question Answering
+- Applied Convolutional Neural Network (CNN) on Non-factoid Question Answering
 - Answer selection is performed using similarity measure between the semantic vector of questions and answers
 - Developed using Python, Keras and TensorFlow
 
