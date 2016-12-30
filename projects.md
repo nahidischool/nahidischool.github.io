@@ -1,7 +1,7 @@
 ## Attention-based Learning to Rank Approach in Document Relevance Judgement 
 [Dec, 2016 - Present]
 
-###### Md Mustafizur Rahman & Matthew Lease
+#### Md Mustafizur Rahman & Matthew Lease
 
 ---
 
@@ -9,7 +9,7 @@
 ## Leveraging Active Learning for Labeling TREC Ad-hoc Data-set
 [Dec, 2016 - Present]
 
-###### Md Mustafizur Rahman & Matthew Lease
+#### Md Mustafizur Rahman & Matthew Lease
 
 ---
 
