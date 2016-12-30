@@ -1,6 +1,6 @@
-## Attention-based Learning to Rank Approach in Document Relevance Judgement       
-#### Md Mustafizur Rahman & Matthew Lease     
-##### [Dec, 2016 - Present]    
+## Attention-based Learning to Rank Approach in Document Relevance Judgement <br>    
+#### Md Mustafizur Rahman & Matthew Lease <br>    
+##### [Dec, 2016 - Present]  <br>  
 ---
 
 
