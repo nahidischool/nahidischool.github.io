@@ -51,7 +51,7 @@
 
 [Aug, 2014 - Nov, 2014]
 
-- Developed multiple crawlers for crwaling job-postings from Google, Facebook, Microsoft & IBM
+- Developed multiple crawlers for crawling job-postings from Google, Facebook, Microsoft & IBM
 - Indexed 1GB of crawled data using Apache Lucene
 - Designed a rank model and implemented the model using the Lucence index
 - Developed an interface to show the search results for a given a search query
