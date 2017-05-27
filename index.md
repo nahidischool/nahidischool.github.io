@@ -64,6 +64,7 @@ I am a first year PhD student at the School of Information, University of Texas 
 
 ## <a name="award"></a>Academic Awards
 
+- 2016 to 2018: Full tuition waiver and graduate research assistantship from University of Texas at Austin
 - 2014 to 2016: Full tuition waiver and graduate assistantship from University of Virginia
 - 2006 to 2011: Awarded with Scholarship from Institute of International Education (IIE), New York, USA sponsored by AIG Foundation
 - 2006 to 2011: Deans List Award by Bangladesh University of Engineering and Technology (BUET) for maintaining a minimum CGPA of 3.75
