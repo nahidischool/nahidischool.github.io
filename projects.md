@@ -5,7 +5,7 @@
 - Utitlizing the rationale 
 
 ## Leveraging Active Learning for Labeling TREC Ad-hoc Data-set
-[Dec, 2016 - Present]
+[Dec, 2016 - May, 2016]
 
 - NIST evaluates relevance judgement only for a set of documents in a collection because human evaluation is costly. The purpose of this project is to develop an active learning approach which will find out the fine-grained balance between cost and gold-dataset collection
 
