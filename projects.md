@@ -1,5 +1,6 @@
 ## Semi-Supervised Deep Learning for Deep-NLP: Clinical Information Extraction from Cancer Pathology Reports
-[Los Alamos National Laboratory, NM]
+# Los Alamos National Laboratory, NM
+# Applied Machine Learning Intern
 [June, 2017 - August, 2017]
 
 - Developed semi-supervised graph based regularization deep learning model that leverages both labeled and unlabeled data points
