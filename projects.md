@@ -1,4 +1,5 @@
 ## Semi-Supervised Deep Learning for Deep-NLP: Clinical Information Extraction from Cancer Pathology Reports
+[Los Alamos National Laboratory, NM]
 [June, 2017 - August, 2017]
 
 - Developed semi-supervised graph based regularization deep learning model that leverages both labeled and unlabeled data points
@@ -6,7 +7,7 @@
 - Pre-process the cancer pathology reports by performing sentence boundary disambiguation using Maximum Entropy and Bi-directional LSTM deep model
 
 ## Attention-based Learning to Rank in Document Relevance Judgement   
-[Dec, 2016 - Present]   
+[][Dec, 2016 - Present]   
 
 - Developing an attention-based model to find out the important part of a document
 - Utitlizing the rationale 
