@@ -4,7 +4,7 @@
 
 - Developed semi-supervised graph based regularization deep learning model that leverages both labeled and unlabeled data points
 - Extracted clinical information from cancer pathology reports for automatic cancer type and site detection 
-- Pre-process the cancer pathology reports by performing sentence boundary disambiguation using Maximum Entropy and Bi-directional LSTM deep model
+- Pre-processed the cancer pathology reports by performing sentence boundary disambiguation using Maximum Entropy and Bi-directional LSTM deep model
 
 ## Attention-based Learning to Rank in Document Relevance Judgement   
 #### Graduate Research Assistant, UT Austin, Austin, Texas 
