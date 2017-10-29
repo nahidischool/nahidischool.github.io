@@ -30,7 +30,7 @@ I am a second year PhD student at the School of Information, University of Texas
 1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [[PDF]](http://link.springer.com/chapter/10.1007%2F978-94-017-8642-3_3)
 
 ## Journal
-1. Kezban Dilek Onal, Ye Zhang, Ismail Sengor Altingovde, **Md Mustafizur Rahman**, Pinar Karagoz, Alex Braylan, Brandon Dang, Heng-Lu Chang, Henna Kim, Quinten McNamara, Aaron Angert, Edward Banner, Vivek Khetan, Tyler McDonnell, An Thanh Nguyen, Dan Xu, Byron C. Wallace, Maarten de Rijke, and Matthew Lease. **Neural Information Retrieval: At the End of the Early Years**. _Information Retrieval_, 2018. Springer. (To appear). 
+1. Kezban Dilek Onal, Ye Zhang, Ismail Sengor Altingovde, **Md Mustafizur Rahman**, Pinar Karagoz, Alex Braylan, Brandon Dang, Heng-Lu Chang, Henna Kim, Quinten McNamara, Aaron Angert, Edward Banner, Vivek Khetan, Tyler McDonnell, An Thanh Nguyen, Dan Xu, Byron C. Wallace, Maarten de Rijke, and Matthew Lease. **Neural Information Retrieval: At the End of the Early Years**. _Information Retrieval_, 2018. Springer. [[PDF]](https://www.ischool.utexas.edu/~ml/papers/zhang-irj18.pdf)(To appear). 
 
 2. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, **Layered Ensemble Architecture for Time Series Forecasting**. _IEEE transaction on Systems, Man & Cybernetics_, IEEE, 46(1):270--283, 2016. [[PDF]](http://dx.doi.org/10.1109/TCYB.2015.2401038)
 
