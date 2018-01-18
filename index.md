@@ -62,7 +62,9 @@ I am a second year PhD student at the School of Information, University of Texas
 12. **Md. Mustafizur Rahman**, S. M. Ferdous, and Syed Ishtiaque Ahmed, **Increasing intelligibility in the speech of the autistic children by an interactive computer game**. In Proceedings of _the IEEE Symposium on Multimedia, IEEE Computer Society Press_, Taiwan,China, pages 383-387, 2010. [[PDF]](https://doi.org/10.1109/ISM.2010.64)
 
 ## Technical Reports
-1. Y. Zhang, **Md. Mustafizur Rahman**, A. Braylan, B. Dang, H.-L. Chang, H. Kim, Q. McNamara, A. Angert, E. Banner, V. Khetan, T. McDonnell, A. Thanh Nguyen, D. Xu, B. C. Wallace, and M. Lease. **Neural Information Retrieval: A Literature Review**. Technical report, University of Texas at Austin, November 2016. ArXiv 1611.06792. [[PDF]](https://arxiv.org/abs/1611.06792) [[PPT]](http://www.slideshare.net/mattlease/deep-learning-for-information-retrieval-models-progress-opportunities)
+1. **Md Mustafizur Rahman**, Mucahid Kutlu, Tamer Elsayed, and Matthew Lease. **Efficient Test Collection Construction via Active Learning**. Technical report, University of Texas at Austin, January 2018. ArXiv 1801.05605. [[PDF]](https://arxiv.org/abs/1801.05605)
+
+2. Y. Zhang, **Md. Mustafizur Rahman**, A. Braylan, B. Dang, H.-L. Chang, H. Kim, Q. McNamara, A. Angert, E. Banner, V. Khetan, T. McDonnell, A. Thanh Nguyen, D. Xu, B. C. Wallace, and M. Lease. **Neural Information Retrieval: A Literature Review**. Technical report, University of Texas at Austin, November 2016. ArXiv 1611.06792. [[PDF]](https://arxiv.org/abs/1611.06792) [[PPT]](http://www.slideshare.net/mattlease/deep-learning-for-information-retrieval-models-progress-opportunities)
 
 ## <a name="award"></a>Academic Awards
 
