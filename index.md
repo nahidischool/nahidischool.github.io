@@ -26,6 +26,7 @@ I am a second year PhD student at the School of Information, University of Texas
 # <a name="publication"></a>Publications
 [[Google Scholar]](http://scholar.google.com/citations?hl=en&user=-Lae4twAAAAJ) 
 [[Research Gate]](https://www.researchgate.net/profile/Md_Mustafizur_Rahman5)
+[[ORCID]](https://orcid.org/0000-0002-3940-9976)
 
 ## Book Chapter
 1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [[PDF]](http://link.springer.com/chapter/10.1007%2F978-94-017-8642-3_3)
