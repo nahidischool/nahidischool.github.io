@@ -25,7 +25,7 @@ I am a second year PhD student at the School of Information, University of Texas
 
 # <a name="publication"></a>Publications
 [[Google Scholar]](http://scholar.google.com/citations?hl=en&user=-Lae4twAAAAJ) 
-[[Research Gate]](https://www.researchgate.net/profile/Md_Mustafizur_Rahman5)
+<!--[[Research Gate]](https://www.researchgate.net/profile/Md_Mustafizur_Rahman5)-->
 [[ORCID]](https://orcid.org/0000-0002-3940-9976)
 
 ## Book Chapter
