@@ -1,8 +1,15 @@
+## Open Domain Question Answering using Deep Learning to Rank and Deep Machine Reading Comprehension Model
+#### PhD Research Intern, Samsung Research America, Mountain View, CA
+[May 2018 - Aug, 2018]
+
+- Developed an open domain question answering system for Samsung's Bixby using a combination of a deep machine reading comprehension model and a deep learning to rank model
+- Processed and indexed the complete English Wikipedia corpus for the question answering
+
 ## Semi-Supervised Deep Learning for Deep-NLP: Clinical Information Extraction from Cancer Pathology Reports
 #### Applied Machine Learning Intern, Los Alamos National Laboratory, Los Alamos, New Mexico
 [June, 2017 - Aug, 2017]
 
-- Developed semi-supervised graph based regularization deep learning model that leverages both labeled and unlabeled data points
+- Developed a semi-supervised graph-based regularized deep learning model that leverages both labeled and unlabeled data points
 - Extracted clinical information from cancer pathology reports for automatic cancer type and site detection 
 - Pre-processed the cancer pathology reports by performing sentence boundary disambiguation using Maximum Entropy and Bi-directional LSTM deep model
 
@@ -18,6 +25,7 @@
 [Dec, 2016 - May, 2016]
 
 - NIST evaluates relevance judgement only for a set of documents in a collection because human evaluation is costly. The purpose of this project is to develop an active learning approach which will find out the fine-grained balance between cost and gold-dataset collection
+- Under revision for Journal of the Association for Information Science and Technology (JASIS&T)
 
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
 [[PDF]](/paper/deep-non-factoid-qa.pdf) [[PPT]](/paper/QA_Task.pdf)
@@ -35,7 +43,7 @@
 [Aug, 2016 - Oct, 2016]
 
 - In this project, we surveyed the current landscape of Neural Information Retrieval (IR) research paying special attention to the use of learned representations of queries and documents (i.e., neural embeddings). We highlighted the successes of neural IR thus far. Then we cataloged obstacles to its wider adoption and finally, suggested potentially promising directions for future research.
-- Under review in [Information Retrieval Journal: Special Issue on Neural Information Retrieval](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57257&copyownerid=320)
+- Accepted as a full journal paper in [Information Retrieval Journal: Special Issue on Neural Information Retrieval](https://link.springer.com/article/10.1007%2Fs10791-017-9321-y)
 
 ## Hidden Topic Sentiment Model for Unstructured Users' Reviews
 [[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) 
