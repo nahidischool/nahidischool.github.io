@@ -34,7 +34,7 @@ I am a third year PhD student at the School of Information, University of Texas 
 ## Journal
 1. Kezban Dilek Onal, Ye Zhang, Ismail Sengor Altingovde, **Md Mustafizur Rahman**, Pinar Karagoz, Alex Braylan, Brandon Dang, Heng-Lu Chang, Henna Kim, Quinten McNamara, Aaron Angert, Edward Banner, Vivek Khetan, Tyler McDonnell, An Thanh Nguyen, Dan Xu, Byron C. Wallace, Maarten de Rijke, and Matthew Lease. **Neural Information Retrieval: At the End of the Early Years**. _Information Retrieval_, 2018. Springer. [[PDF]](https://link.springer.com/article/10.1007%2Fs10791-017-9321-y) 
 
-2. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, **Layered Ensemble Architecture for Time Series Forecasting**. _IEEE transaction on Systems, Man & Cybernetics_, IEEE, 46(1):270--283, 2016. [[PDF]](http://dx.doi.org/10.1109/TCYB.2015.2401038)
+2. **Md. Mustafizur Rahman**, Md. Monirul Islam, Kaziyuki Murase and Xin Yao, **Layered Ensemble Architecture for Time Series Forecasting**. _IEEE transaction on Systems, Man & Cybernetics_, IEEE, 46(1):270--283, 2016. (Impact Factor: 8.803) [[PDF]](http://dx.doi.org/10.1109/TCYB.2015.2401038)
 
 3. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [[PDF]](http://dx.doi.org/10.1108/17415651111189450)
 
