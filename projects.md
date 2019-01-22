@@ -3,8 +3,7 @@
 [Sep, 2018 - Dec, 2018]
 
 - Developed a test collection construction approach by utilizing Multi-armed Bandit for topic selection and Active Learning for document selection
-- Accepted in 28th International World Wide Web Conference (WWW 2019), San Francisco, USA,
-2019. (Acceptance Rate: 20%.)
+- Accepted in 28th International World Wide Web Conference (WWW 2019), San Francisco, USA, 2019. (Acceptance Rate: 20%.)
 
 ## Open Domain Question Answering using Deep Learning to Rank and Deep Machine Reading Comprehension Model
 #### PhD Research Intern, Samsung Research America, Mountain View, CA
