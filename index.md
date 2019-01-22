@@ -43,7 +43,7 @@ I am a third year PhD student at the School of Information, University of Texas 
 
 2. Malay Bhattacharyya, Yoshihiko Suhara, **Md. Mustafizur Rahman**, and Markus Krause, **Possible Confounds in Word-based Semantic Similarity Test Data**. In proceedings of _the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017)_, Portland, OR, USA, 2017. [[PDF]](http://dx.doi.org/10.1145/3022198.3026357) [[Blog]](https://humancomputation.com/blog/?p=9492) [[Data]](https://github.com/suhara/CrowdWS/)
 
-3. **Md. Mustafizur Rahman**, and Hongning Wang, **Hidden Topic Sentiment Model**. In Proceedings of _the 25th International World Wide Web Conference (WWW 2016)_, Montreal, Canada, 2016. [[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) <a href="dataset#data_www2016">[Data]</a>
+3. **Md. Mustafizur Rahman**, and Hongning Wang, **Hidden Topic Sentiment Model**. In Proceedings of _the 25th International World Wide Web Conference (WWW 2016)_, Montreal, Canada, 2016. (Acceptance Rate: 16%) [[PDF]](http://dl.acm.org/citation.cfm?id=2883072) [[PPT]](/paper/mustafiz-WWW16-v1.pptx) <a href="dataset#data_www2016">[Data]</a>
 
 4. **Md. Mustafizur Rahman**, S. K. K. Santu, Md. Monirul Islam, and Kazuyuki Murase, **Forecasting Time Series - A Layered Ensemble Architecture**. In Proceedings of _the International Joint Conference on Neural Networks (IJCNN 2014)_, IEEE, Beijing, China, 2014. [[PDF]](https://doi.org/10.1109/IJCNN.2014.6889682)
 
