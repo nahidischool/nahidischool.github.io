@@ -1,4 +1,4 @@
-## Constructing Test Collection using Multi-armed Bandit and Active Learning
+## Constructing Test Collections using Multi-armed Bandits and Active Learning
 #### Graduate Research Assistant, UT Austin, Austin, Texas
 [Sep, 2018 - Dec, 2018]
 
