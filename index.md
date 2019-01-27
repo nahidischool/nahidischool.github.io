@@ -32,7 +32,7 @@ I am a third year PhD student at the School of Information, University of Texas 
 1. Abdus Salam Azad, Md. Kamrul Hasan, M. Arif Imtiazur Rahman, **Md. Mustafizur Rahman**, and Nashid Shahriar, **Exploring the Behavior and Changing Trends of Rainfall and Temperature Using Statistical Computing Techniques**. _Computational Intelligence Techniques in Earth and Environmental Sciences, Springer_, DOI 10.1007/978-94-0:pages: 53-78, 2014. [[PDF]](http://link.springer.com/chapter/10.1007%2F978-94-017-8642-3_3)
 
 ## Journal
-1. **Md Mustafizur Rahman**, Mucahid Kutlu, Tamer Elsayed, and Matthew Lease, **Efficient Test Collection Construction via Active Learning**,” September 2018. (under revision for _JASIS&T_) 
+1. **Md Mustafizur Rahman**, Mucahid Kutlu, Tamer Elsayed, and Matthew Lease, **Efficient Test Collection Construction via Active Learning**,” September 2018. (under revision for _the Journal of the Association for Information Science and Technology (JASIS&T)_) 
 
 2. Kezban Dilek Onal, Ye Zhang, Ismail Sengor Altingovde, **Md Mustafizur Rahman**, Pinar Karagoz, Alex Braylan, Brandon Dang, Heng-Lu Chang, Henna Kim, Quinten McNamara, Aaron Angert, Edward Banner, Vivek Khetan, Tyler McDonnell, An Thanh Nguyen, Dan Xu, Byron C. Wallace, Maarten de Rijke, and Matthew Lease. **Neural Information Retrieval: At the End of the Early Years**. _Information Retrieval_, 2018. Springer. [[PDF]](https://link.springer.com/article/10.1007%2Fs10791-017-9321-y) 
 
