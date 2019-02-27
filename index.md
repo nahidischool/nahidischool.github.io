@@ -41,7 +41,7 @@ I am a third year PhD student at the School of Information, University of Texas 
 4. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [[PDF]](http://dx.doi.org/10.1108/17415651111189450)
 
 ## Conference
-1. **Md Mustafizur Rahman**, Mucahid Kutlu, and Matthew Lease, **Constructing Test Collections using Multi-armed Bandits and Active Learning**. In Proceedings of _the 28th International World Wide Web Conference (WWW 2019)_,  San Francisco, USA, 2019. (Acceptance Rate: 20%) [[PDF]](./paper/rahman_www19.pdf)
+1. **Md Mustafizur Rahman**, Mucahid Kutlu, and Matthew Lease, **Constructing Test Collections using Multi-armed Bandits and Active Learning**. In Proceedings of _the 28th International World Wide Web Conference (WWW 2019)_,  San Francisco, USA, 2019. (Acceptance Rate: 20%) [[PDF]](./paper/rahman_www19.pdf) [[code]] (https://github.com/mdmustafizurrahman/MAB_AL_TestCollection/)
 
 2. Malay Bhattacharyya, Yoshihiko Suhara, **Md. Mustafizur Rahman**, and Markus Krause, **Possible Confounds in Word-based Semantic Similarity Test Data**. In Proceedings of _the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017)_, Portland, OR, USA, 2017. [[PDF]](http://dx.doi.org/10.1145/3022198.3026357) [[Blog]](https://humancomputation.com/blog/?p=9492) [[Data]](https://github.com/suhara/CrowdWS/)
 
