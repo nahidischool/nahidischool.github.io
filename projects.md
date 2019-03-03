@@ -32,7 +32,7 @@
 [Dec, 2016 - May, 2016]
 
 - NIST evaluates relevance judgement only for a set of documents in a collection because human evaluation is costly. The purpose of this project is to develop an active learning approach which will find out the fine-grained balance between cost and gold-dataset collection
-- Under revision for Journal of the Association for Information Science and Technology (JASIS&T)
+- Under review after revision for Journal of the Association for Information Science and Technology (JASIS&T)
 
 ## Answer Selection in Non-Factoid Question Answering using Deep Learning
 [[PDF]](/paper/deep-non-factoid-qa.pdf) [[PPT]](/paper/QA_Task.pdf)
