@@ -49,7 +49,7 @@ I am a third year PhD student at the School of Information, University of Texas 
 
 4. **Md. Mustafizur Rahman**, S. K. K. Santu, Md. Monirul Islam, and Kazuyuki Murase, **Forecasting Time Series - A Layered Ensemble Architecture**. In Proceedings of _the International Joint Conference on Neural Networks (IJCNN 2014)_, IEEE, Beijing, China, 2014. [[PDF]](https://doi.org/10.1109/IJCNN.2014.6889682)
 
-5. S. K. K. Santu, **Md. Mustafizur Rahman**, Md. Monirul Islam, and Kazuyuki Murase, **Towards better generalization in Pittsburgh Learning Classifier Systems**. In Proceedings of _the IEEE World Congress on Computational Intelligence (CEC 2014)_, IEEE, Beijing, China, 2014. [[PDF]](https://doi.org/10.1109/CEC.2014.6900388)
+5. S. K. K. Santu, **Md. Mustafizur Rahman**, Md. Monirul Islam, and Kazuyuki Murase, **Towards better generalization in Pittsburgh Learning Classifier Systems**. In Proceedings of _the IEEE World Congress on Computational Intelligence (CEC 2014)_, IEEE, Beijing, China, 2014. [[PDF]](https://doi.org/10.1109/CEC.2014.6900388) [[Rank of IEEE CEC]](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_evolutionarycomputation)
 
 6. Asif Salekin, and **Md. Mustafizur Rahman**, **Pattern Matching In Time Series Using Combination Of Neural Network And Rule Based Approach**. In Proceedings of _the 7th International Conference on Electrical & Computer Engineering (ICECE 2012)_, Dhaka, Bangladesh, 2012. [[PDF]](https://doi.org/10.1109/ICECE.2012.6471591)
 
