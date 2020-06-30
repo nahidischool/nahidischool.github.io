@@ -43,7 +43,7 @@ I am a fourth year PhD student at the School of Information, University of Texas
 3. **Md. Mustafizur Rahman**, S. M. Ferdous, Syed Ishtiaque Ahmed, and Anika Anwar, **Speech Development of Autistic Children by Interactive Computer Games**. _Interactive Technology and Smart Education (ITSE), Emerald_, 2011. [[PDF]](http://dx.doi.org/10.1108/17415651111189450)
 
 ## Conference
-1. **Md Mustafizur Rahman**, Mucahid Kutlu, Tamer Elsayed, and Matthew Lease, **Efficient Test Collection Construction via Active Learning**”. In Proceedings of _the 10th International Conference on The Theory of Information Retrieval (ICTIR 2020)_,  Stavanger, Norway. (To appear)
+1. **Md Mustafizur Rahman**, Mucahid Kutlu, Tamer Elsayed, and Matthew Lease, **Efficient Test Collection Construction via Active Learning**. In Proceedings of _the 10th International Conference on The Theory of Information Retrieval (ICTIR 2020)_,  Stavanger, Norway. (To appear)
 
 2. **Md Mustafizur Rahman**, Mucahid Kutlu, and Matthew Lease, **Constructing Test Collections using Multi-armed Bandits and Active Learning**. In Proceedings of _the 28th International World Wide Web Conference (WWW 2019)_,  San Francisco, USA, 2019. (Acceptance Rate: 19.94%) [[PDF]](./paper/rahman_www19.pdf) [[Poster]](./paper/rahman_www19_poster.pdf) [[code]](https://github.com/mdmustafizurrahman/MAB_AL_TestCollection/) [[Rank of WWW]](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_databasesinformationsystems)
 
