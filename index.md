@@ -21,7 +21,7 @@ Email: nahid@utexas.edu
 </tr>
 </table>
 I am a fifth year PhD student at the School of Information, University of Texas at Austin working under 
-[[Prof. Matthew Lease]](https://www.ischool.utexas.edu/~ml/). I am interested in Deep Learning  and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. 
+[Prof. Matthew Lease](https://www.ischool.utexas.edu/~ml/). I am interested in Deep Learning  and its applications to Information Retrieval, Natural Language Processing, Text Data Analysis and Crowd Computing. 
 
 # <a name="publication"></a>Publications
 [[Google Scholar]](http://scholar.google.com/citations?hl=en&user=-Lae4twAAAAJ) 
