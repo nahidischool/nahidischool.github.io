@@ -46,7 +46,7 @@ I am a fifth year PhD student at the School of Information, University of Texas 
 1. **Md Mustafizur Rahman**, Dinesh Balakrishnan, Dhiraj Murthy, Mucahid Kutlu, and Matthew Lease, **An Information Retrieval Approach to Building Datasets for
 Hate Speech Detection**. [[arXiv]](https://arxiv.org/pdf/2106.09775.pdf)
 
-2. **Md Mustafizur Rahman**, Mucahid Kutlu, and Matthew Lease, **Understanding and Predicting the Characteristics of Test Collections**. (In preparation). [[PDF]](./paper/Rahman_understand_IR_2020.pdf) [[arXiv]](https://arxiv.org/abs/2012.13292)
+2. **Md Mustafizur Rahman**, Mucahid Kutlu, and Matthew Lease, **Understanding and Predicting the Characteristics of Test Collections**. [[PDF]](./paper/Rahman_understand_IR_2020.pdf) [[arXiv]](https://arxiv.org/abs/2012.13292)
 
 3. **Md Mustafizur Rahman**, Mucahid Kutlu, Tamer Elsayed, and Matthew Lease, **Efficient Test Collection Construction via Active Learning**. In Proceedings of _the 10th International Conference on The Theory of Information Retrieval (ICTIR 2020)_,  Stavanger, Norway, 2020. [[PDF]](./paper/rahman_ICTIR2020.pdf)
 
