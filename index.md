@@ -44,7 +44,7 @@ I am a fifth year PhD student at the School of Information, University of Texas 
 
 ## Conference
 1. **Md Mustafizur Rahman**, Dinesh Balakrishnan, Dhiraj Murthy, Mucahid Kutlu, and Matthew Lease, **An Information Retrieval Approach to Building Datasets for
-Hate Speech Detection**. [[arXiv]](https://arxiv.org/pdf/2106.09775.pdf)
+Hate Speech Detection**. [[arXiv]](https://arxiv.org/abs/2106.09775)
 
 2. **Md Mustafizur Rahman**, Mucahid Kutlu, and Matthew Lease, **Understanding and Predicting the Characteristics of Test Collections**. [[PDF]](./paper/Rahman_understand_IR_2020.pdf) [[arXiv]](https://arxiv.org/abs/2012.13292)
 
